@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(155, 212, 240);
+}
+p{
+    font-family: sans-serif;
+}
+#heading1{
+    text-align: center;
+    color: white;
+}
+.center-content{
+    text-align: center;
+    color: red;
+}
+#ordered-list{
+    color: rgb(138, 31, 31);
+    padding-top: 0.2%;
+    padding-right: 2%;
+    padding-bottom: 0.2%;
+    background-color: rgb(215, 136, 136);
+}
+#ordered-content{
+    margin-top: 2%;
+    background-color: rgb(225, 214, 214);
+}
+#unordered-list{
+    margin-top: 1%;
+    padding-top: 0.2%;
+    padding-left: 0%;
+    padding-right: 2%;
+    padding-bottom: 0.2%;
+    background-color: rgb(80, 131, 163);
+}
+.unordered-content{
+    margin: 0.5%;
+    background-color: rgb(207, 230, 251);
+}

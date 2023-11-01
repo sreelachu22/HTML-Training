@@ -1,0 +1,25 @@
+h1 {
+    background-color: rgb(230, 124, 116);
+  }
+  body {
+    background-color: rgb(197, 194, 194);
+  }
+  .heading1 {
+    background-color: antiquewhite;
+  }
+  #mytable {
+    background-color: rgb(254, 254, 185);
+  }
+  #h-container{
+    color: blueviolet;
+  }
+  #mytable{
+    color: blue;
+  }
+  #list{
+    background-color: rgb(125, 168, 168);
+  }
+  .para{
+    color: green;
+    font-style: italic;
+  }
