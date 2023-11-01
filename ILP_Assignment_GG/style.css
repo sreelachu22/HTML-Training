@@ -294,13 +294,15 @@ text-align: left;
         display: flex;
       }
       .d-desc2{
-        padding-left: 600px;
+        padding-left: 700px;
+        margin-left: 100px;
       }
 
       .d-desc {
         margin-top: -30px;
         padding: 10px;
         margin-left: 20px;
+        margin-right: -10px;
       }
       #dept-read {
         display: flex;
